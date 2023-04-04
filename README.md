@@ -1,1 +1,1 @@
-# template-homework1
+# Homework 1 - Advanced Statistical Computing 2023
